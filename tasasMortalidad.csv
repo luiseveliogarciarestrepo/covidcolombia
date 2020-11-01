@@ -1,0 +1,15 @@
+Causa de defunción,nombre,Total,edad 0 a 4,edad 5 a 14,edad 15 a 44,edad 45 a 64,edad 65 a 84,edad 85 a 99,edad 100 o mas,edad desconocida,Tasa de Mortalidad,Factor
+200-215,Neoplasias,95486,,,,,,,,,1910,'5,3'
+303,Enfermedades isquémicas del corazón,75032,2,10,1450,11984,36504,23998,1082,2,1501,'4,2'
+605,Enfermedades crónicas de las vías respiratorias inferiores,31832,26,10,222,2290,15284,13514,486,0,637,'1,8'
+307,Enfermedades cerebrovasculares,30550,64,56,1202,5312,14942,8782,192,0,611,'1,7'
+999,COVID-19,18000,,,,,,,,,360,1
+512,Agresiones (homicidios),24764,90,192,19962,3798,648,46,2,26,495,'1,4'
+302,Enfermedades hipertensivas,17540,6,2,208,1840,8182,7002,300,0,351,1
+601,Diabetes mellitus,15326,6,6,544,3490,8090,3110,80,0,307,'0,9'
+609,Resto de enfermedades del sistema digestivo,14874,150,68,854,2656,7230,3836,80,0,297,'0,8'
+501,Accidentes de transporte terrestre,13244,94,300,7652,2976,1926,290,0,6,265,'0,7'
+610,Enfermedades del sistema urinario,13060,98,46,586,1898,6078,4222,132,0,261,'0,7'
+614,Resto de las enfermedades,12892,344,172,1802,2634,4952,2860,128,0,258,'0,7'
+304,Enfermedad cardiopulmonar enfermedades de la circulación pulmonar y otras formas de enfermedad del corazón,11580,150,84,868,2128,5510,2760,80,0,232,'0,6'
+604,Enfermedades del sistema nervioso  excepto meningitis,10908,392,448,1704,1704,3930,2650,80,0,218,'0,6'
